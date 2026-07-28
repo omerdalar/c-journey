@@ -1,14 +1,10 @@
 # C Journey
 
-Personal repository documenting my journey learning the C programming language from scratch, as part of a structured 6-phase roadmap toward embedded systems and TinyML.
+A collection of exercises and small programs written while learning the C programming language from the ground up.
 
 ## About
 
-This repo contains exercises and small programs written while learning core C concepts: program structure, variables, data types, operators, control flow, functions, arrays, pointers, structs, and file I/O.
-
-## Phase 1 Goal
-
-Write pointer- and struct-based C programs that read/write files and are split across multiple `.c`/`.h` files — unassisted.
+This repository documents my progress through core C concepts: program structure, variables, data types, operators, control flow, functions, arrays, pointers, structs, and file I/O.
 
 ## How to Build and Run
 
@@ -21,8 +17,8 @@ gcc filename.c -o output_name
 
 Example:
 ```bash
-gcc 01_program_anatomisi.c -o anatomisi
-./anatomisi
+gcc 01_program_structure.c -o structure
+./structure
 ```
 
 ## Structure
