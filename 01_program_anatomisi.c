@@ -1,12 +1,12 @@
 #include <stdio.h>
-// Ekrana yazı yazdırmak için gerekli olan kütüphane
+// Ekrana yazi yazdirmak icin gerekli kutuphane
 
 int main() {
-    // Programın başlangıç noktası
+    // Programin baslangic noktasi
 
     printf("selam ya");
-    // Ekrana yazdırma
+    // Ekrana yazdirma
 
     return 0;
-    // Program hatasız şekilde tamamlandı
+    // Program hatasiz sekilde tamamlandi
 }
